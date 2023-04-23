@@ -1,0 +1,9 @@
+{
+    "companies": [
+        {
+            "name": "Infy",
+            "quantity": "10000",
+            "price": "200"
+        }
+    ]
+}
